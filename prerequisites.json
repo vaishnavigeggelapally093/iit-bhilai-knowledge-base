@@ -1,0 +1,402 @@
+[
+ {
+  "course": "CS100",
+  "requires": "IC100",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS100",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS101",
+  "requires": "IC105",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS101",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS102",
+  "requires": "IC100",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS102",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS102",
+  "requires": "CS101",
+  "kind": "concurrent_ok",
+  "source_id": "S3",
+  "source_ref": "Part B CS102",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS200",
+  "requires": "CS100",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS200",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS201",
+  "requires": "CS101",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS201",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS202",
+  "requires": "CS102",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS202",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS202",
+  "requires": "CS101",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS202",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS202",
+  "requires": "CS201",
+  "kind": "concurrent_ok",
+  "source_id": "S3",
+  "source_ref": "Part B CS202",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS203",
+  "requires": "CS101",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS203",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS203",
+  "requires": "CS102",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS203",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS203",
+  "requires": "CS202",
+  "kind": "concurrent_ok",
+  "source_id": "S3",
+  "source_ref": "Part B CS203",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS204",
+  "requires": "IC150",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS204",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS204",
+  "requires": "IC100",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS204",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS250",
+  "requires": "CS204",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS250",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS250",
+  "requires": "CS102",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS250",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS251",
+  "requires": "CS204",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS251",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS251",
+  "requires": "CS203",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS251",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS252",
+  "requires": "CS202",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS252",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS252",
+  "requires": "CS203",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS252",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS252",
+  "requires": "CS201",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS252",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS252",
+  "requires": "CS253",
+  "kind": "concurrent_ok",
+  "source_id": "S3",
+  "source_ref": "Part B CS252",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS253",
+  "requires": "CS203",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS253",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS254",
+  "requires": "CS102",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS254",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS254",
+  "requires": "CS101",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS254",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS254",
+  "requires": "CS250",
+  "kind": "concurrent_ok",
+  "source_id": "S3",
+  "source_ref": "Part B CS254",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS300",
+  "requires": "CS251",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS300",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS301",
+  "requires": "CS250",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS301",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "IC152",
+  "requires": "IC104",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B IC152",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "IC202",
+  "requires": "IC153",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B IC202",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS550",
+  "requires": "MA605",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS550",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS550",
+  "requires": "DS250",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS550",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "CS550",
+  "requires": "DS251",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B CS550",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "DS100",
+  "requires": "IC104",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B DS100",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "DS100",
+  "requires": "IC105",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B DS100",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "DS100",
+  "requires": "IC152",
+  "kind": "concurrent_ok",
+  "source_id": "S3",
+  "source_ref": "Part B DS100",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "DS250",
+  "requires": "DS100",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B DS250",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "DS250",
+  "requires": "CS202",
+  "kind": "concurrent_ok",
+  "source_id": "S3",
+  "source_ref": "Part B DS250",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "DS251",
+  "requires": "CS202",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B DS251",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "course": "MA605",
+  "requires": "IC152",
+  "kind": "hard",
+  "source_id": "S3",
+  "source_ref": "Part B MA605 (for BTech students)",
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ }
+]

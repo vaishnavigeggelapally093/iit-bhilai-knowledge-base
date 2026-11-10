@@ -1,0 +1,362 @@
+[
+ {
+  "resource": "RES01",
+  "skill": "SK01",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/"
+ },
+ {
+  "resource": "RES02",
+  "skill": "SK06",
+  "level": "intermediate",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/"
+ },
+ {
+  "resource": "RES02",
+  "skill": "SK17",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/"
+ },
+ {
+  "resource": "RES03",
+  "skill": "SK07",
+  "level": "intermediate",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/"
+ },
+ {
+  "resource": "RES03",
+  "skill": "SK08",
+  "level": "intermediate",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/"
+ },
+ {
+  "resource": "RES04",
+  "skill": "SK08",
+  "level": "advanced",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/"
+ },
+ {
+  "resource": "RES05",
+  "skill": "SK03",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/"
+ },
+ {
+  "resource": "RES06",
+  "skill": "SK04",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/"
+ },
+ {
+  "resource": "RES07",
+  "skill": "SK05",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/"
+ },
+ {
+  "resource": "RES08",
+  "skill": "SK05",
+  "level": "intermediate",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/"
+ },
+ {
+  "resource": "RES09",
+  "skill": "SK06",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/"
+ },
+ {
+  "resource": "RES10",
+  "skill": "SK10",
+  "level": "intermediate",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/"
+ },
+ {
+  "resource": "RES11",
+  "skill": "SK11",
+  "level": "intermediate",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/"
+ },
+ {
+  "resource": "RES11",
+  "skill": "SK20",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/"
+ },
+ {
+  "resource": "RES12",
+  "skill": "SK11",
+  "level": "advanced",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/"
+ },
+ {
+  "resource": "RES13",
+  "skill": "SK13",
+  "level": "advanced",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/"
+ },
+ {
+  "resource": "RES14",
+  "skill": "SK12",
+  "level": "advanced",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-035-computer-language-engineering-spring-2010/"
+ },
+ {
+  "resource": "RES15",
+  "skill": "SK09",
+  "level": "intermediate",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/"
+ },
+ {
+  "resource": "RES16",
+  "skill": "SK17",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/"
+ },
+ {
+  "resource": "RES17",
+  "skill": "SK17",
+  "level": "intermediate",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/"
+ },
+ {
+  "resource": "RES18",
+  "skill": "SK18",
+  "level": "advanced",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://ocw.mit.edu/courses/6-857-network-and-computer-security-spring-2014/"
+ },
+ {
+  "resource": "RES19",
+  "skill": "SK02",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://missing.csail.mit.edu/"
+ },
+ {
+  "resource": "RES19",
+  "skill": "SK16",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://missing.csail.mit.edu/"
+ },
+ {
+  "resource": "RES20",
+  "skill": "SK01",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://cs50.harvard.edu/x/"
+ },
+ {
+  "resource": "RES21",
+  "skill": "SK07",
+  "level": "intermediate",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://opendatastructures.org/"
+ },
+ {
+  "resource": "RES22",
+  "skill": "SK08",
+  "level": "intermediate",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://jeffe.cs.illinois.edu/teaching/algorithms/"
+ },
+ {
+  "resource": "RES23",
+  "skill": "SK04",
+  "level": "intermediate",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://hefferon.net/linearalgebra/"
+ },
+ {
+  "resource": "RES24",
+  "skill": "SK13",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://opentextbc.ca/dbdesign01/"
+ },
+ {
+  "resource": "RES25",
+  "skill": "SK14",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.computer-networking.info/"
+ },
+ {
+  "resource": "RES26",
+  "skill": "SK06",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://openstax.org/details/books/introductory-statistics"
+ },
+ {
+  "resource": "RES27",
+  "skill": "SK17",
+  "level": "advanced",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://d2l.ai/"
+ },
+ {
+  "resource": "RES28",
+  "skill": "SK01",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://greenteapress.com/wp/think-python-2e/"
+ },
+ {
+  "resource": "RES29",
+  "skill": "SK16",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://git-scm.com/book/en/v2"
+ },
+ {
+  "resource": "RES29",
+  "skill": "SK02",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://git-scm.com/book/en/v2"
+ },
+ {
+  "resource": "RES30",
+  "skill": "SK19",
+  "level": "intermediate",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://github.com/ethereumbook/ethereumbook"
+ },
+ {
+  "resource": "RES31",
+  "skill": "SK18",
+  "level": "foundation",
+  "source_id": "S4",
+  "source_ref": "Author mapping (not an official statement); resource page topics aligned to skill",
+  "source_type": "open-licence",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.crypto101.io/"
+ }
+]

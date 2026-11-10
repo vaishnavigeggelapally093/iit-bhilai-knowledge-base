@@ -1,0 +1,1226 @@
+[
+ {
+  "code": "IC100",
+  "title": "Introduction to Programming",
+  "department": "Institute Core",
+  "credits": 6.0,
+  "semester_offered": "1",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Basic programming and UNIX commands; arithmetic operations data types input and output; conditionals and loops; functions and recursion; arrays pointers and strings; classes and object-oriented programming; file handling",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem I; Part B IC100",
+  "credits_raw": "6",
+  "semesters": [
+   1
+  ],
+  "semester_labels": [
+   "Sem I"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "IC101",
+  "title": "Digital Fabrication",
+  "department": "Institute Core",
+  "credits": 6.0,
+  "semester_offered": "1",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Freehand sketching and orthographic and isometric projection; 3D CAD solid modelling; 3D scanning with CMM and laser scanners; 3D printing from CAD model to part; CNC machining familiarisation; casting and moulding; laser cutting demonstration",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem I; Part B IC101",
+  "credits_raw": "6",
+  "semesters": [
+   1
+  ],
+  "semester_labels": [
+   "Sem I"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "IC102",
+  "title": "Electromagnetism",
+  "department": "Institute Core",
+  "credits": 2.0,
+  "semester_offered": "1",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Vector analysis and coordinate systems; Maxwell's equations in vacuum and matter; boundary conditions and Poynting's theorem; conservation of momentum and angular momentum; electromagnetic waves in vacuum and matter; guided waves",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem I; Part B IC102",
+  "credits_raw": "2",
+  "semesters": [
+   1
+  ],
+  "semester_labels": [
+   "Sem I"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "IC103",
+  "title": "Materials Chemistry I",
+  "department": "Institute Core",
+  "credits": 2.0,
+  "semester_offered": "1",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Polymer types synthesis molecular weight and properties; applications of polymeric materials; biomaterials: amino acids proteins enzymes carbohydrates nucleic acids lipids; peptide-polymer conjugates",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem I; Part B IC103",
+  "credits_raw": "2",
+  "semesters": [
+   1
+  ],
+  "semester_labels": [
+   "Sem I"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "IC104",
+  "title": "Linear Algebra I",
+  "department": "Institute Core",
+  "credits": 3.0,
+  "semester_offered": "1",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Systems of linear equations and Gauss elimination; LU factorisation rank and linear independence; vector spaces bases and dimension; linear transformations and matrix representations; rank-nullity theorem and invertibility; computer lab using Python or MATLAB",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem I; Part B IC104",
+  "credits_raw": "3",
+  "semesters": [
+   1
+  ],
+  "semester_labels": [
+   "Sem I"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "IC105",
+  "title": "Probability and Statistics",
+  "department": "Institute Core",
+  "credits": 4.0,
+  "semester_offered": "1",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Probability spaces conditional probability and Bayes' theorem; random variables and distributions; expectation and Chebyshev's inequality; binomial Poisson exponential uniform and normal distributions; sampling laws of large numbers and central limit theorem; estimation maximum likelihood and confidence intervals; hypothesis testing goodness of fit and correlation",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem I; Part B IC105",
+  "credits_raw": "4",
+  "semesters": [
+   1
+  ],
+  "semester_labels": [
+   "Sem I"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "IC106",
+  "title": "Chemistry Lab",
+  "department": "Institute Core",
+  "credits": 3.0,
+  "semester_offered": "1;2",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Synthesis of aspirin and paracetamol; qualitative analysis of organic compounds; hardness of water; redox titration; pH and conductometric titration",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem I/II (alternates with IC107); Part B IC106",
+  "credits_raw": "3",
+  "semesters": [
+   1,
+   2
+  ],
+  "semester_labels": [
+   "Sem I",
+   "Sem II"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "IC107",
+  "title": "Physics Lab",
+  "department": "Institute Core",
+  "credits": 3.0,
+  "semester_offered": "1;2",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Hall effect measurement; Newton's rings and diffraction; energy band gap of silicon and germanium diodes; Zener diode and Stefan's law; CRO measurements; npn transistor characteristics",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem I/II (alternates with IC106); Part B IC107",
+  "credits_raw": "3",
+  "semesters": [
+   1,
+   2
+  ],
+  "semester_labels": [
+   "Sem I",
+   "Sem II"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CA100",
+  "title": "Professional Communication Lab I - Sketching and Drawing",
+  "department": "Creative Arts and Liberal Arts",
+  "credits": 1.0,
+  "semester_offered": "1",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "CA",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Drawing as a means of visual organisation; proportion composition and layout",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem I; Part B CA100",
+  "credits_raw": "1",
+  "semesters": [
+   1
+  ],
+  "semester_labels": [
+   "Sem I"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "IC150",
+  "title": "Applied Digital Logic Design",
+  "department": "Institute Core",
+  "credits": 6.0,
+  "semester_offered": "2",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Introduction to FPGA and hardware description languages; combinational circuits Boolean algebra and gate-level minimisation; adders comparators multiplexers decoders; latches flip-flops registers and memory; sequential circuits: state tables timing shift registers counters",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem II; Part B IC150",
+  "credits_raw": "6",
+  "semesters": [
+   2
+  ],
+  "semester_labels": [
+   "Sem II"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "IC151",
+  "title": "Quantum Physics",
+  "department": "Institute Core",
+  "credits": 2.0,
+  "semester_offered": "2",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Classical to quantum crossover; wave function and uncertainty principle; time-independent and time-dependent Schrodinger equations; Dirac formulation: bra and ket vectors and basis sets; eigenstates eigenvalues and expectation values",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem II; Part B IC151",
+  "credits_raw": "2",
+  "semesters": [
+   2
+  ],
+  "semester_labels": [
+   "Sem II"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "IC152",
+  "title": "Linear Algebra II",
+  "department": "Institute Core",
+  "credits": 3.0,
+  "semester_offered": "2",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Eigenvalues and eigenvectors with applications; Hermitian skew-Hermitian and unitary matrices; diagonalisation minimal polynomial and Cayley-Hamilton theorem; inner product spaces and Gram-Schmidt process; computer lab using Python or MATLAB",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem II; Part B IC152",
+  "credits_raw": "3",
+  "semesters": [
+   2
+  ],
+  "semester_labels": [
+   "Sem II"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "IC153",
+  "title": "Calculus I",
+  "department": "Institute Core",
+  "credits": 3.0,
+  "semester_offered": "2",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Real numbers sequences and series convergence; limits continuity and differentiability; Rolle's and mean value theorems; definite integrals and applications; improper integrals",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem II; Part B IC153",
+  "credits_raw": "3",
+  "semesters": [
+   2
+  ],
+  "semester_labels": [
+   "Sem II"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS100",
+  "title": "Software Tools and Technologies Lab I",
+  "department": "Computer Science and Engineering",
+  "credits": 4.0,
+  "semester_offered": "2",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Shell scripting; Python and JavaScript scripting; web programming; GUI programming tools; document processing tools",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem II; Part B CS100",
+  "credits_raw": "4",
+  "semesters": [
+   2
+  ],
+  "semester_labels": [
+   "Sem II"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS101",
+  "title": "Discrete Structures I",
+  "department": "Computer Science and Engineering",
+  "credits": 4.0,
+  "semester_offered": "2",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Sets relations and functions; propositional logic and proof systems; proof techniques: contradiction contrapositive induction; counting pigeonhole principle and recurrences; inclusion-exclusion; basics of graph theory",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem II; Part B CS101",
+  "credits_raw": "4",
+  "semesters": [
+   2
+  ],
+  "semester_labels": [
+   "Sem II"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS102",
+  "title": "Data Structures",
+  "department": "Computer Science and Engineering",
+  "credits": 4.0,
+  "semester_offered": "2",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Stacks queues and lists; sorting and searching; trees traversals and heaps; binary search trees; graph representations; depth-first and breadth-first search",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem II; Part B CS102",
+  "credits_raw": "4",
+  "semesters": [
+   2
+  ],
+  "semester_labels": [
+   "Sem II"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CA150",
+  "title": "Professional Communication Lab II - Presentation Skills",
+  "department": "Creative Arts and Liberal Arts",
+  "credits": 1.0,
+  "semester_offered": "2",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "CA",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Presentation skills for engineers; writing reports papers and reviews; speaking and discussion; slides videos models and prototypes; effective presentation strategies",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem II; Part B CA150",
+  "credits_raw": "1",
+  "semesters": [
+   2
+  ],
+  "semester_labels": [
+   "Sem II"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "IC200",
+  "title": "Introduction to Astronomy and Astrophysics",
+  "department": "Institute Core",
+  "credits": 4.0,
+  "semester_offered": "3",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Scales night sky and solar system; electromagnetic spectrum and telescopes; astrometry and coordinate systems; star formation and stellar evolution; cosmology: Big Bang Hubble's law dark energy; particle physics and the Standard Model",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem III; Part B IC200",
+  "credits_raw": "4",
+  "semesters": [
+   3
+  ],
+  "semester_labels": [
+   "Sem III"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "IC201",
+  "title": "Environmental Studies",
+  "department": "Institute Core",
+  "credits": 2.0,
+  "semester_offered": "3",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Atmosphere ecosystems nutrient cycles and sustainability; global warming and ozone depletion; toxic chemicals in the environment; project on an environment topic",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem III; Part B IC201",
+  "credits_raw": "2",
+  "semesters": [
+   3
+  ],
+  "semester_labels": [
+   "Sem III"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "IC202",
+  "title": "Calculus II",
+  "department": "Institute Core",
+  "credits": 3.0,
+  "semester_offered": "3",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Partial derivatives gradient and chain rule; maxima minima and Lagrange multipliers; double and triple integrals; line integrals and Green's theorem; surface integrals and divergence theorem",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem III; Part B IC202",
+  "credits_raw": "3",
+  "semesters": [
+   3
+  ],
+  "semester_labels": [
+   "Sem III"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS200",
+  "title": "Software Tools and Technologies Lab II",
+  "department": "Computer Science and Engineering",
+  "credits": 4.0,
+  "semester_offered": "3",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Software management tools and CVS; lab exercises developing large systems and application programs",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem III; Part B CS200",
+  "credits_raw": "4",
+  "semesters": [
+   3
+  ],
+  "semester_labels": [
+   "Sem III"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS201",
+  "title": "Discrete Structures II",
+  "department": "Computer Science and Engineering",
+  "credits": 2.0,
+  "semester_offered": "3",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Generating functions and advanced counting; Polya's counting theorem; introduction to number theory and group theory; probabilistic method in combinatorics",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem III; Part B CS201",
+  "credits_raw": "2",
+  "semesters": [
+   3
+  ],
+  "semester_labels": [
+   "Sem III"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS202",
+  "title": "Algorithms I",
+  "department": "Computer Science and Engineering",
+  "credits": 4.0,
+  "semester_offered": "3",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Algorithm analysis worst and average case; recurrences and asymptotics; sorting and selection; randomised techniques; search structures: balanced trees skip lists hash tables; dynamic programming and greedy algorithms; graph algorithms: BFS DFS MST shortest paths; NP-complete problems",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem III; Part B CS202",
+  "credits_raw": "4",
+  "semesters": [
+   3
+  ],
+  "semester_labels": [
+   "Sem III"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS203",
+  "title": "Theory of Computation I",
+  "department": "Computer Science and Engineering",
+  "credits": 4.0,
+  "semester_offered": "3",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Finite automata deterministic and non-deterministic; context-free grammars and parse trees; pushdown automata and pumping lemma; CYK algorithm; Turing machines and variants; undecidability",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem III; Part B CS203",
+  "credits_raw": "4",
+  "semesters": [
+   3
+  ],
+  "semester_labels": [
+   "Sem III"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS204",
+  "title": "Computer Organization and Architecture",
+  "department": "Computer Science and Engineering",
+  "credits": 4.0,
+  "semester_offered": "3",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Digital building blocks and computer structure; number representation; assembly language programming; ALU design: adders shifters multipliers; hardwired and microprogrammed control; memory organisation and cache; I/O techniques: interrupts polling DMA",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem III; Part B CS204",
+  "credits_raw": "4",
+  "semesters": [
+   3
+  ],
+  "semester_labels": [
+   "Sem III"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CA200",
+  "title": "Professional Communication Lab III - Technical Literature Structure",
+  "department": "Creative Arts and Liberal Arts",
+  "credits": 1.0,
+  "semester_offered": "3",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "CA",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Technical language usage; abstracts and technical reports; review writing; online communication",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem III; Part B CA200",
+  "credits_raw": "1",
+  "semesters": [
+   3
+  ],
+  "semester_labels": [
+   "Sem III"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "IC250",
+  "title": "Materials Chemistry II",
+  "department": "Institute Core",
+  "credits": 2.0,
+  "semester_offered": "4",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Organic and inorganic hybrid materials; organometallic materials; materials for energy storage and fuel cells; redox flow batteries and cluster compounds",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem IV; Part B IC250",
+  "credits_raw": "2",
+  "semesters": [
+   4
+  ],
+  "semester_labels": [
+   "Sem IV"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "IC251",
+  "title": "Basics of Bioinformatics",
+  "department": "Institute Core",
+  "credits": 4.0,
+  "semester_offered": "4",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Biomolecules and visualisation tools; sequence databases: GenBank PDB; sequence alignment BLAST and FASTA; protein structure files and structure prediction",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem IV; Part B IC251",
+  "credits_raw": "4",
+  "semesters": [
+   4
+  ],
+  "semester_labels": [
+   "Sem IV"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS250",
+  "title": "Operating Systems",
+  "department": "Computer Science and Engineering",
+  "credits": 4.0,
+  "semester_offered": "4",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "System calls processes and threads; CPU scheduling; process synchronisation and classical problems; deadlocks; memory management segmentation and paging; file systems; security and protection; case studies: UNIX and NT",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem IV; Part B CS250",
+  "credits_raw": "4",
+  "semesters": [
+   4
+  ],
+  "semester_labels": [
+   "Sem IV"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS251",
+  "title": "Introduction to Language Processing",
+  "department": "Computer Science and Engineering",
+  "credits": 4.0,
+  "semester_offered": "4",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Compiler structure and phases; lexical analysis; syntax analysis; syntax-directed translation; type checking and run-time systems; intermediate and target code generation",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem IV; Part B CS251",
+  "credits_raw": "4",
+  "semesters": [
+   4
+  ],
+  "semester_labels": [
+   "Sem IV"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS252",
+  "title": "Algorithms II",
+  "department": "Computer Science and Engineering",
+  "credits": 4.0,
+  "semester_offered": "4",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Review of sorting and graph algorithms; linear programming; network flow algorithms; NP-completeness; approximation algorithms; randomised algorithms; geometric algorithms",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem IV; Part B CS252",
+  "credits_raw": "4",
+  "semesters": [
+   4
+  ],
+  "semester_labels": [
+   "Sem IV"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS253",
+  "title": "Theory of Computation II",
+  "department": "Computer Science and Engineering",
+  "credits": 2.0,
+  "semester_offered": "4",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Turing machine review; time and space bounded computation; reductions; theory of NP-completeness; time and space complexity",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem IV; Part B CS253",
+  "credits_raw": "2",
+  "semesters": [
+   4
+  ],
+  "semester_labels": [
+   "Sem IV"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS254",
+  "title": "Database Management Systems",
+  "department": "Computer Science and Engineering",
+  "credits": 4.0,
+  "semester_offered": "4",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "File organisation: indexed hashed B-trees; data models: relational network NoSQL; relational algebra calculus and normal forms; query language implementation; recovery and concurrency; distributed databases",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem IV; Part B CS254",
+  "credits_raw": "4",
+  "semesters": [
+   4
+  ],
+  "semester_labels": [
+   "Sem IV"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CA250",
+  "title": "Professional Ethics",
+  "department": "Creative Arts and Liberal Arts",
+  "credits": 2.0,
+  "semester_offered": "4",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "CA",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Values and norms of professional ethics; codes of conduct and obligations; confidentiality and trust; engineering ethics; medical legal environmental computer and business ethics",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem IV; Part B CA250",
+  "credits_raw": "2",
+  "semesters": [
+   4
+  ],
+  "semester_labels": [
+   "Sem IV"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "IC300",
+  "title": "Materials Chemistry III",
+  "department": "Institute Core",
+  "credits": 2.0,
+  "semester_offered": "5",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "IC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Light harvesting materials; semiconductor basics and light-matter interaction; solar cells and conjugated polymers; quantum dots and hybrid semiconductors",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem V; Part B IC300",
+  "credits_raw": "2",
+  "semesters": [
+   5
+  ],
+  "semester_labels": [
+   "Sem V"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS300",
+  "title": "Principles of Programming Languages",
+  "department": "Computer Science and Engineering",
+  "credits": 6.0,
+  "semester_offered": "5",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "History of programming languages; imperative functional logic and object-oriented paradigms; values types variables bindings and scope; abstraction and type systems; polymorphism and type inference; functional and logic programming",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem V; Part B CS300",
+  "credits_raw": "6",
+  "semesters": [
+   5
+  ],
+  "semester_labels": [
+   "Sem V"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS301",
+  "title": "Computer Networks",
+  "department": "Computer Science and Engineering",
+  "credits": 6.0,
+  "semester_offered": "5",
+  "semester_basis": "nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "CSE_core",
+  "prereq_consent_required": false,
+  "objectives": "Layered architecture and packet switching; application protocols: DNS WWW SSH FTP; transport layer: TCP flow error and congestion control and UDP; network layer: IP routing ICMP DHCP IPv6 RIP OSPF; data link layer framing and medium access; network security: cryptography signatures firewalls; SDN and OpenFlow",
+  "source_id": "S3",
+  "source_ref": "Part A CSE Sem V; Part B CS301",
+  "credits_raw": "6",
+  "semesters": [
+   5
+  ],
+  "semester_labels": [
+   "Sem V"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS505",
+  "title": "Big Data Analytics",
+  "department": "Computer Science and Engineering",
+  "credits": 6.0,
+  "semester_offered": "",
+  "semester_basis": "not_specified_in_source",
+  "course_type": "elective",
+  "category": "DE",
+  "mode": "offline",
+  "programme_scope": "CSE_elective",
+  "prereq_consent_required": true,
+  "objectives": "Big data tools and analytics fundamentals; distributed systems topics; Hadoop HDFS and MapReduce; Spark and Spark ML; Spark deep learning",
+  "source_id": "S3",
+  "source_ref": "Part B CS505; Part A Table 4 (500-level open to 3rd and final year BTech as electives)",
+  "credits_raw": "6",
+  "semesters": [],
+  "semester_labels": [],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS550",
+  "title": "Machine Learning",
+  "department": "Computer Science and Engineering",
+  "credits": 6.0,
+  "semester_offered": "",
+  "semester_basis": "not_specified_in_source",
+  "course_type": "elective",
+  "category": "DE",
+  "mode": "offline",
+  "programme_scope": "CSE_elective",
+  "prereq_consent_required": false,
+  "objectives": "Supervised learning: regression and classification; SVM and kernel methods; unsupervised learning: clustering and PCA; matrix factorisation; generative models; evaluation and model selection; ensemble methods; deep learning and representation learning",
+  "source_id": "S3",
+  "source_ref": "Part B CS550 (prerequisites MA605 DS250 DS251)",
+  "credits_raw": "6",
+  "semesters": [],
+  "semester_labels": [],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS551",
+  "title": "Software Engineering",
+  "department": "Computer Science and Engineering",
+  "credits": 6.0,
+  "semester_offered": "",
+  "semester_basis": "not_specified_in_source",
+  "course_type": "elective",
+  "category": "DE",
+  "mode": "offline",
+  "programme_scope": "CSE_elective",
+  "prereq_consent_required": true,
+  "objectives": "Software process models; requirement analysis and specification; project planning and monitoring; design principles; verification concepts; testing: black-box and white-box",
+  "source_id": "S3",
+  "source_ref": "Part B CS551",
+  "credits_raw": "6",
+  "semesters": [],
+  "semester_labels": [],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS553",
+  "title": "Cryptography",
+  "department": "Computer Science and Engineering",
+  "credits": 6.0,
+  "semester_offered": "",
+  "semester_basis": "not_specified_in_source",
+  "course_type": "elective",
+  "category": "DE",
+  "mode": "offline",
+  "programme_scope": "CSE_elective",
+  "prereq_consent_required": true,
+  "objectives": "Mathematical background; symmetric cryptography: one-time pad stream and block ciphers; hash functions and MACs; authenticated encryption; RSA and El Gamal; secret sharing; Diffie-Hellman and Kerberos; Bitcoin",
+  "source_id": "S3",
+  "source_ref": "Part B CS553",
+  "credits_raw": "6",
+  "semesters": [],
+  "semester_labels": [],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS554",
+  "title": "Blockchain Technologies",
+  "department": "Computer Science and Engineering",
+  "credits": 6.0,
+  "semester_offered": "",
+  "semester_basis": "not_specified_in_source",
+  "course_type": "elective",
+  "category": "DE",
+  "mode": "offline",
+  "programme_scope": "CSE_elective",
+  "prereq_consent_required": true,
+  "objectives": "Introduction to cryptography; cryptocurrency mining proof of work and proof of stake; blockchain versus cryptocurrency; security properties of blockchain; networks and anonymity; Ethereum and Zcash; regulation",
+  "source_id": "S3",
+  "source_ref": "Part B CS554",
+  "credits_raw": "6",
+  "semesters": [],
+  "semester_labels": [],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS555",
+  "title": "Computer and System Security",
+  "department": "Computer Science and Engineering",
+  "credits": 6.0,
+  "semester_offered": "",
+  "semester_basis": "not_specified_in_source",
+  "course_type": "elective",
+  "category": "DE",
+  "mode": "offline",
+  "programme_scope": "CSE_elective",
+  "prereq_consent_required": true,
+  "objectives": "Public and private key cryptography; cryptographic protocols and attacks; operating system security; penetration testing; malware analysis; web security: XSS and SQL injection; network security: firewalls IDS DDoS",
+  "source_id": "S3",
+  "source_ref": "Part B CS555",
+  "credits_raw": "6",
+  "semesters": [],
+  "semester_labels": [],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "CS559",
+  "title": "Computer Systems Design",
+  "department": "Computer Science and Engineering",
+  "credits": 6.0,
+  "semester_offered": "",
+  "semester_basis": "not_specified_in_source",
+  "course_type": "elective",
+  "category": "DE",
+  "mode": "offline",
+  "programme_scope": "CSE_elective",
+  "prereq_consent_required": true,
+  "objectives": "Example systems; setting goals and design principles; quantitative systems modelling and queueing; naming schemes; caching; resource management; virtualisation security and reliability",
+  "source_id": "S3",
+  "source_ref": "Part B CS559",
+  "credits_raw": "6",
+  "semesters": [],
+  "semester_labels": [],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "DS100",
+  "title": "Mathematical Foundations of Data Science",
+  "department": "Computer Science and Engineering (DSAI)",
+  "credits": 4.0,
+  "semester_offered": "2",
+  "semester_basis": "dsai_nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "DSAI_crosslisted",
+  "prereq_consent_required": false,
+  "objectives": "Bayes rule and sampling methods; PAC analysis; high-dimensional geometry and LSH; PCA and SVD; transforms in data analysis; linear regression and gradient descent",
+  "source_id": "S3",
+  "source_ref": "Part B DS100; DSAI curriculum Sem II",
+  "credits_raw": "4",
+  "semesters": [
+   2
+  ],
+  "semester_labels": [
+   "Sem II"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "DS250",
+  "title": "Data Analytics and Visualization",
+  "department": "Computer Science and Engineering (DSAI)",
+  "credits": 6.0,
+  "semester_offered": "3",
+  "semester_basis": "dsai_nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "DSAI_crosslisted",
+  "prereq_consent_required": false,
+  "objectives": "Data science workflow; wrangling and exploratory analysis; classification clustering regression and time series; model evaluation and regularisation; visualisation design; graph and text visualisation",
+  "source_id": "S3",
+  "source_ref": "Part B DS250; DSAI curriculum Sem III",
+  "credits_raw": "6",
+  "semesters": [
+   3
+  ],
+  "semester_labels": [
+   "Sem III"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "DS251",
+  "title": "Artificial Intelligence",
+  "department": "Computer Science and Engineering (DSAI)",
+  "credits": 6.0,
+  "semester_offered": "4",
+  "semester_basis": "dsai_nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "DSAI_crosslisted",
+  "prereq_consent_required": false,
+  "objectives": "Search and game playing; knowledge representation and rule-based systems; planning; handling uncertainty: Bayesian networks fuzzy logic; neural networks and backpropagation; introduction to machine learning",
+  "source_id": "S3",
+  "source_ref": "Part B DS251; DSAI curriculum Sem IV",
+  "credits_raw": "6",
+  "semesters": [
+   4
+  ],
+  "semester_labels": [
+   "Sem IV"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ },
+ {
+  "code": "MA605",
+  "title": "Operations Research",
+  "department": "Mathematics",
+  "credits": 4.0,
+  "semester_offered": "3",
+  "semester_basis": "dsai_nominal_curriculum",
+  "course_type": "core",
+  "category": "PC",
+  "mode": "offline",
+  "programme_scope": "DSAI_crosslisted",
+  "prereq_consent_required": false,
+  "objectives": "Linear programming simplex and duality; transportation and assignment problems; Lagrange multipliers and KKT conditions; convex and quadratic optimisation; dynamic programming",
+  "source_id": "S3",
+  "source_ref": "Part B MA605; DSAI curriculum Sem III",
+  "credits_raw": "4",
+  "semesters": [
+   3
+  ],
+  "semester_labels": [
+   "Sem III"
+  ],
+  "source_type": "official",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/index.php?pid=schedule_programs"
+ }
+]

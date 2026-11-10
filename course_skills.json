@@ -1,0 +1,572 @@
+[
+ {
+  "course": "IC100",
+  "skill": "SK01",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC100",
+  "skill": "SK02",
+  "depth": "intro",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC104",
+  "skill": "SK04",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC152",
+  "skill": "SK04",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC153",
+  "skill": "SK05",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC202",
+  "skill": "SK05",
+  "depth": "advanced",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC105",
+  "skill": "SK06",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS100",
+  "skill": "SK02",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS200",
+  "skill": "SK02",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS200",
+  "skill": "SK16",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS101",
+  "skill": "SK03",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS201",
+  "skill": "SK03",
+  "depth": "advanced",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS102",
+  "skill": "SK01",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS102",
+  "skill": "SK07",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS202",
+  "skill": "SK07",
+  "depth": "advanced",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS202",
+  "skill": "SK08",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS252",
+  "skill": "SK08",
+  "depth": "advanced",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS203",
+  "skill": "SK09",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS253",
+  "skill": "SK09",
+  "depth": "advanced",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC150",
+  "skill": "SK10",
+  "depth": "intro",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS204",
+  "skill": "SK10",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS250",
+  "skill": "SK11",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS251",
+  "skill": "SK12",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS300",
+  "skill": "SK12",
+  "depth": "intro",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS300",
+  "skill": "SK15",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS254",
+  "skill": "SK13",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS301",
+  "skill": "SK14",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS301",
+  "skill": "SK18",
+  "depth": "intro",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CA150",
+  "skill": "SK21",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CA200",
+  "skill": "SK21",
+  "depth": "intro",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS505",
+  "skill": "SK22",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS550",
+  "skill": "SK17",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS551",
+  "skill": "SK16",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS553",
+  "skill": "SK18",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS554",
+  "skill": "SK19",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS554",
+  "skill": "SK18",
+  "depth": "intro",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS555",
+  "skill": "SK18",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS559",
+  "skill": "SK20",
+  "depth": "intro",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CS559",
+  "skill": "SK11",
+  "depth": "advanced",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "DS100",
+  "skill": "SK17",
+  "depth": "intro",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "DS250",
+  "skill": "SK17",
+  "depth": "intro",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "DS250",
+  "skill": "SK22",
+  "depth": "intro",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "DS251",
+  "skill": "SK17",
+  "depth": "intro",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "MA605",
+  "skill": "SK23",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC102",
+  "skill": "SK24",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC151",
+  "skill": "SK24",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC107",
+  "skill": "SK24",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC200",
+  "skill": "SK24",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC103",
+  "skill": "SK25",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC106",
+  "skill": "SK25",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC250",
+  "skill": "SK25",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC300",
+  "skill": "SK25",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC101",
+  "skill": "SK26",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CA100",
+  "skill": "SK26",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "CA250",
+  "skill": "SK27",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC201",
+  "skill": "SK28",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ },
+ {
+  "course": "IC251",
+  "skill": "SK28",
+  "depth": "working",
+  "source_id": "S5",
+  "source_ref": "Author mapping (not an institute statement); basis: Courses of Study syllabus text",
+  "source_type": "manual",
+  "retrieved_on": "2026-11-10",
+  "source_url": "https://www.iitbhilai.ac.in/"
+ }
+]

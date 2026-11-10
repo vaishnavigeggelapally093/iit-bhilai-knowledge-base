@@ -1,0 +1,186 @@
+{
+  "counts": {
+    "courses": 48,
+    "prerequisites": 40,
+    "curriculum_slots": 50,
+    "skills": 28,
+    "course_skills": 57,
+    "rules": 46,
+    "resources": 31,
+    "resource_skills": 36,
+    "modules": 271,
+    "learning_outcomes": 0,
+    "exercises": 9,
+    "chunks": 134
+  },
+  "fill_rate_pct": {
+    "courses": {
+      "code": 100.0,
+      "title": 100.0,
+      "department": 100.0,
+      "credits": 100.0,
+      "semesters": 100.0,
+      "semester_basis": 100.0,
+      "course_type": 100.0,
+      "category": 100.0,
+      "mode": 100.0,
+      "programme_scope": 100.0,
+      "prereq_consent_required": 100.0,
+      "objectives": 100.0,
+      "source_id": 100.0,
+      "source_ref": 100.0,
+      "source_url": 100.0,
+      "source_type": 100.0,
+      "retrieved_on": 100.0
+    },
+    "prerequisites": {
+      "course": 100.0,
+      "requires": 100.0,
+      "kind": 100.0,
+      "source_id": 100.0,
+      "source_ref": 100.0,
+      "source_url": 100.0,
+      "source_type": 100.0,
+      "retrieved_on": 100.0
+    },
+    "curriculum_slots": {
+      "semester": 100.0,
+      "slot_label": 100.0,
+      "course_code": 74.0,
+      "category": 100.0,
+      "credits": 100.0,
+      "source_id": 100.0,
+      "source_ref": 100.0,
+      "source_url": 100.0,
+      "source_type": 100.0,
+      "retrieved_on": 100.0
+    },
+    "skills": {
+      "skill_id": 100.0,
+      "name": 100.0,
+      "level": 100.0,
+      "parent_skill": 50.0,
+      "source_id": 100.0,
+      "source_ref": 100.0,
+      "source_url": 100.0,
+      "source_type": 100.0,
+      "retrieved_on": 100.0
+    },
+    "course_skills": {
+      "course": 100.0,
+      "skill": 100.0,
+      "depth": 100.0,
+      "source_id": 100.0,
+      "source_ref": 100.0,
+      "source_url": 100.0,
+      "source_type": 100.0,
+      "retrieved_on": 100.0
+    },
+    "rules": {
+      "rule_id": 100.0,
+      "category": 100.0,
+      "subject": 100.0,
+      "text": 100.0,
+      "numeric_limit": 67.4,
+      "unit": 69.6,
+      "applies_to_scheme": 100.0,
+      "source_id": 100.0,
+      "source_ref": 100.0,
+      "source_url": 100.0,
+      "source_type": 100.0,
+      "retrieved_on": 100.0
+    },
+    "resources": {
+      "resource_id": 100.0,
+      "title": 100.0,
+      "provider": 100.0,
+      "licence": 100.0,
+      "format": 100.0,
+      "duration_hours_est": 100.0,
+      "url": 100.0,
+      "url_verified": 100.0,
+      "description": 100.0,
+      "source_id": 100.0,
+      "source_ref": 100.0,
+      "source_url": 100.0,
+      "source_type": 100.0,
+      "retrieved_on": 100.0
+    },
+    "resource_skills": {
+      "resource": 100.0,
+      "skill": 100.0,
+      "level": 100.0,
+      "source_id": 100.0,
+      "source_ref": 100.0,
+      "source_url": 100.0,
+      "source_type": 100.0,
+      "retrieved_on": 100.0
+    },
+    "modules": {
+      "module_id": 100.0,
+      "parent_course": 100.0,
+      "order": 100.0,
+      "summary": 100.0,
+      "module_kind": 100.0,
+      "is_official_module": 100.0,
+      "derivation_method": 100.0,
+      "source_id": 100.0,
+      "source_ref": 100.0,
+      "source_url": 100.0,
+      "source_type": 100.0,
+      "retrieved_on": 100.0
+    },
+    "learning_outcomes": {},
+    "exercises": {
+      "exercise_id": 100.0,
+      "skill": 100.0,
+      "difficulty": 100.0,
+      "question": 100.0,
+      "answer_key": 100.0,
+      "source_id": 100.0,
+      "source_ref": 100.0,
+      "source_url": 100.0,
+      "source_type": 100.0,
+      "retrieved_on": 100.0
+    }
+  },
+  "chunks_by_type": {
+    "syllabus": 48,
+    "rule": 46,
+    "exercise": 9,
+    "resource": 31
+  },
+  "max_chunk_chars": 459,
+  "credits_per_semester": {
+    "1": 30.0,
+    "2": 30.0,
+    "3": 30.0,
+    "4": 30.0,
+    "5": 30.0,
+    "6": 30.0,
+    "7": 30.0,
+    "8": 30.0
+  },
+  "credits_per_category": {
+    "IC": 60.0,
+    "CALA": 30.0,
+    "PC": 60.0,
+    "DE": 60.0,
+    "OE": 30.0
+  },
+  "urls_unverified": 0,
+  "derived_topics_not_official_modules": 271,
+  "explicit_learning_outcomes": 0,
+  "optional_exercises": 9,
+  "source_url_specificity": {
+    "S1": "direct_pdf_endpoint",
+    "S2": "direct_pdf_endpoint",
+    "S3": "direct_pdf_endpoint",
+    "S4": "per_row",
+    "S5": "not_applicable_author_created"
+  },
+  "errors": [],
+  "warnings": [
+    "semester-order check skipped for 3 edges (course has no semester in source): CS550->MA605, CS550->DS250, CS550->DS251"
+  ]
+}
